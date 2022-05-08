@@ -1,0 +1,77 @@
+/* Created by alphamage */
+
+body{
+    font-family: sans-serif;
+    color: darkslategray;
+    line-height: 26px;
+    background:white;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.blue-color{
+    color: blue;
+}
+.content{
+    width: 50%;
+    float: left;
+    border-left: 3px solid;
+    padding: 30px;
+}
+.btn{
+    color: white;
+    background-color: blue;
+    padding: 15px 30px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.container{
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    display: inline-block;
+}
+.CV button{
+    color: white;
+    background-color: blue;
+    padding: 15px 22px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.big{
+    color: blue;
+}
+.Dream{
+    float: right;
+    width: 70%;
+    border-right: 3px solid;
+}
+.dreamparagraph{
+    width: auto;
+    padding-right: 20px;
+}
+.expsubheading{
+    color: blue;
+}
+.expsubheading2{
+    color: blue;
+}
+.expheading{
+    color: black;
+}
+.experience{
+    padding: 30px;
+    border-left: 3px solid darkslategray;
+    float: left;
+    width: 40%;
+    line-height: 26px;
+}
+footer{
+    position: absolute;
+    background-color: blue;
+    height: auto;
+    width: 80vw;
+    padding: 40px;
+    color: white;
+    font-family: cursive;
+    border-radius: 30px;
+}
